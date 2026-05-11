@@ -12,6 +12,9 @@ This project extends the work of [Jiang et al. (2026)](https://doi.org/10.1109/T
 - **Rigorous Evaluation:** F1-Macro, mAP, and per-class metrics for imbalanced medical classification
 - **Interpretable Outputs:** 8 binary sigmoid activations for multi-label ANA pattern prediction
 
+<img width="761" height="632" alt="1 2" src="https://github.com/user-attachments/assets/c8ff8ae5-02de-46f3-957f-c24e0823e120" />
+<img width="743" height="460" alt="1 1" src="https://github.com/user-attachments/assets/b3ba52a1-92cc-472a-8db5-9b7fc5a7b42b" />
+
 ## Quick Start
 
 ### Installation
