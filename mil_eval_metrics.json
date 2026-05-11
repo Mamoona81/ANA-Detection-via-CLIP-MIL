@@ -1,0 +1,37 @@
+{
+  "threshold": 0.5,
+  "f1_macro": 0.15217749203443112,
+  "f1_micro": 0.5447001131648435,
+  "f1_weighted": 0.40474370275769517,
+  "mAP": 0.31474833429680094,
+  "class_aps": [
+    0.03174980345355345,
+    0.45038313776484407,
+    0.20140980461594032,
+    0.062043590926846165,
+    0.13077881839147903,
+    0.06996494814070263,
+    0.8232340520078779,
+    0.7484225190731641
+  ],
+  "supports": [
+    20,
+    325,
+    91,
+    38,
+    86,
+    47,
+    329,
+    626
+  ],
+  "classes": [
+    "golgi_apparatus",
+    "homogeneous",
+    "nucleolus",
+    "nuclear_dot",
+    "centromere",
+    "nuclear_membrane_peripheral",
+    "cytoplasm_mitochondria",
+    "speckled_granular_dfs70"
+  ]
+}

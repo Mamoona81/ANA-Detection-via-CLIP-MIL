@@ -1,0 +1,30 @@
+MIL Clinical Evaluation Summary
+================================
+Generated: 2026-05-06T18:34:52
+
+Headline (Test Split)
+---------------------
+Threshold: 0.50
+F1-Macro:  0.1522
+F1-Micro:  0.5447
+F1-Weighted: 0.4047
+mAP:       0.3147
+
+Per-Class AP and Support
+------------------------
+Class                                  AP    Support
+------------------------------------------------------
+golgi_apparatus                    0.0317         20
+homogeneous                        0.4504        325
+nucleolus                          0.2014         91
+nuclear_dot                        0.0620         38
+centromere                         0.1308         86
+nuclear_membrane_peripheral        0.0700         47
+cytoplasm_mitochondria             0.8232        329
+speckled_granular_dfs70            0.7484        626
+
+Notes for presentation
+----------------------
+- Use F1-Macro as the headline metric (handles rare classes).
+- Use mAP to show ranking quality for co-occurring patterns.
+- Confusion matrices shown are per-class binary (TN/FP/FN/TP).
