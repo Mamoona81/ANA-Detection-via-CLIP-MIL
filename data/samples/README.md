@@ -27,8 +27,5 @@ print(embedding.shape)  # (257, 768)
 For the complete ~6,500 embedding files, please:
 1. Contact Mamoona Nisar
 2. Request from original Jiang et al. authors
-3. Check Zenodo repository (DOI pending)
-
----
 
 See [Data Documentation](../DATA.md) for access instructions.
