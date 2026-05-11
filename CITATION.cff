@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: "ANA Detection via CLIP Multi-Instance Learning"
+author:
+  - family-names: "Nisar"
+    given-names: "Mamoona"
+    affiliation: "North Dakota State University"
+date-released: 2026-05-11
+version: "1.0.0"
+repository-code: "https://github.com/Mamoona81/ANA-Detection-via-CLIP-MIL"
+license: "MIT"
+keywords:
+  - "antinuclear-antibody"
+  - "ANA"
+  - "multi-instance-learning"
+  - "CLIP"
+  - "ViT"
+  - "medical-imaging"
+  - "fluorescence"
+  - "autoimmune"
+description: "Multi-instance learning framework for automated ANA pattern classification using CLIP ViT-L/14 embeddings"
+references:
+  - key: "jiang2026"
+    type: "article"
+    title: "Self-Paced Learning for Images of Antinuclear Antibodies"
+    authors:
+      - family-names: "Jiang"
+        given-names: "Y."
+      - family-names: "Qian"
+        given-names: "G."
+      - family-names: "Wu"
+        given-names: "J."
+      - family-names: "Huang"
+        given-names: "Q."
+      - family-names: "Li"
+        given-names: "Q."
+      - family-names: "Wu"
+        given-names: "Y."
+    journal: "IEEE Transactions on Medical Imaging"
+    volume: 45
+    issue: 4
+    pages: "1661–1672"
+    year: 2026
+    month: 4
+    doi: "10.1109/TMI.2025.3637237"
